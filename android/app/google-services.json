@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "114105524271",
+    "project_id": "enercent-demo-5f470",
+    "storage_bucket": "enercent-demo-5f470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114105524271:android:8bb56e585f3fe6347166da",
+        "android_client_info": {
+          "package_name": "com.example.enercent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwIoG9HQsIgsaAd9VkqYGbepP0h27w9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114105524271:android:0e53454308a0f36e7166da",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114105524271-qj46v7sjqbff0vdjrlffle6q646s2hce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_demo",
+            "certificate_hash": "6406c04c6634490368b0ec14eb1bd86f8e4b10b9"
+          }
+        },
+        {
+          "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwIoG9HQsIgsaAd9VkqYGbepP0h27w9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114105524271:android:160cf256039f9c2e7166da",
+        "android_client_info": {
+          "package_name": "com.example.jusbuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIwIoG9HQsIgsaAd9VkqYGbepP0h27w9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114105524271-o222ddtkcl9h9eunb7rm1lacsnknul8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
