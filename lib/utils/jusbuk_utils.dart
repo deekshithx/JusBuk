@@ -15,7 +15,7 @@ class Utils {
   }
 
   bool isPdf(String fileExtension) {
-    return ['.pdf'].any(fileExtension.contains);
+    return ['.pdf', '.txt'].any(fileExtension.contains);
   }
 
   bool isAudio(String fileExtension) {
